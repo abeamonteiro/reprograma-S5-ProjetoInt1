@@ -1,4 +1,4 @@
-# PROJETO INTEGRADO 1
+# Semana 5 - Projeto Integrado 1
 
 ### Este repositório corresponde à quinta semana de aula no curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma. Nesta semana criamos nosso primeiro projeto integrado com um servidor simples que contém as funções de:
 ```
